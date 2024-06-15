@@ -14,7 +14,7 @@ const DrifterDoppKit = () => {
             data-aos-duration="900"
             className="  max-sm:w-[80%] max-sm:mx-auto  w-[18%] h-full flex justify-center  items-center "
           >
-            <p className="  max-[900px]:leading-[10px] text-[10px] max-[1000px]:leading-[1.5] max-sm:leading-4  leading-[2.25] text-gray-400 text-sm  ">
+            <p className=" text-xs   leading-4 text-gray-400  ">
               Field-tested from the peaks of the Cascades down to the desert
               floor of Joshua Tree , the Wilderness Rucksack was built to put on
               some serious miles for years to come .A comfortable dependable
@@ -45,7 +45,7 @@ const DrifterDoppKit = () => {
           data-aos-delay="300"
           data-aos-easing="linear"
           data-aos-duration="900"
-          className=" max-sm:w-[90%] max-sm:left-[5%]  max-sm:top-[5%] max-sm:h-[45%] absolute h-[55%] max-[1000px]:w-1/2  max-[700px]:w-[60%]  top-[22%] left-[15.5%]  w-[45%] border border-[#B8A47F] "
+          className=" absolute h-[60%] max-sm:w-[90%] max-sm:left-[5%]  max-sm:top-[5%] max-sm:h-[45%] top-[22%] left-[15.5%]  max-[790px]:left-[35%]  w-[45%] border border-[#B8A47F] "
         >
           <h1 className=" max-[900px]:tracking-[5px] absolute z-0  w-[44%]  top-[-8%] left-[10%] tracking-[12px] text-[2xl] font-bold ">
             {" "}
