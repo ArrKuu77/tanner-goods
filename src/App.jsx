@@ -30,7 +30,7 @@ const App = () => {
   });
 
   return (
-    <div className=" relative  ">
+    <div className=" relative max-sm:overflow-hidden ">
       <div className=" absolute max-sm:relative max-sm:bg-[#B8A47F]/60 w-full top-[-40px] max-sm:top-[-30px] z-30">
         <NavBar />
       </div>
