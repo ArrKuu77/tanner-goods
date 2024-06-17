@@ -3,7 +3,7 @@ import React from "react";
 const LogoText = () => {
   return (
     <div className="flex justify-center items-center flex-col relative mt-5   ">
-      <p className=" tracking-[1.4px] text-[50%] absolute top-[-10.8%] left-[12.7%]">
+      <p className=" tracking-[1.4px] max-sm:tracking-[0.5px] text-[50%] absolute top-[-10.8%] left-[12.7%]">
         PORTLAND ORE
       </p>
       <div className="relative">

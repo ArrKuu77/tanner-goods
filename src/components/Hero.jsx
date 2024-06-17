@@ -50,7 +50,7 @@ const Hero = () => {
         </div>
         <div className=" mt-20">
           <div className=" relative h-[320px] ">
-            <div className=" flex gap-5 items-center max-sm:block h-full max-sm:flex-col ">
+            <div className=" flex gap-5 items-center  h-full max-sm:flex-col ">
               <div
                 data-aos="fade-right"
                 data-aos-delay="300"
